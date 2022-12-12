@@ -1,6 +1,6 @@
 .idea/
 *2022*/
 *.pdf
-/logs*
+logs_*
 library/*.zip
 
